@@ -8,6 +8,4 @@ int main()
 
 
     t_perso *perso1;
-
-    // Test SourceTree, à supp
 }
