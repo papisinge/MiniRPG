@@ -1,4 +1,4 @@
-#ifndef
+#ifndef RPG_H_
 # define RPG_H_
 
 typedef struct  s_equipement
